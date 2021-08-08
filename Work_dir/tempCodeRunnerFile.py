@@ -1,0 +1,1 @@
+datas = np.genfromtxt("computedAverages\computed.csv")
