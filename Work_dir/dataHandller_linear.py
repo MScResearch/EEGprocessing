@@ -47,21 +47,21 @@ def computeAverages(fileName):
             G=powerAnalizerRelative(fileName,30,45,k)
             print(D,",",T,",",A,",",B,",",G,",")
             #sys.stdout = close("computedAverages\computed"+str(z)+".csv")
+if __name__ == '__main__': 
+    APP_FOLDER = "Data\data_streams"
+    totalFiles = 0
+    fileName="Data/data_streams/dataStreamA"+str(totalFiles)+".csv"
+    computeName='Data/output_streams/output'+str(totalFiles)+'.csv'
 
-APP_FOLDER = "Data\data_streams"
-totalFiles = 0
-fileName="Data/data_streams/dataStreamA"+str(totalFiles)+".csv"
-computeName='Data/output_streams/output'+str(totalFiles)+'.csv'
-
-for base, dirs, files in os.walk(APP_FOLDER):
-    for Files in files:
-        with open(fileName, 'r') as infile, open('Data/output_streams/output'+str(totalFiles)+'.csv', 'w') as outfile:
-            data = infile.read()
-            data = data.replace("[", "")
-            data = data.replace("]", ",")
-            #create array here to speed the data collection.
-            #full_Data = np.append(full_Data, np.array([[1,2,3]]), axis=0)
-            outfile.write(data)
-        computeAverages(computeName)    
-        totalFiles += 1
+    for base, dirs, files in os.walk(APP_FOLDER):
+        for Files in files:
+            with open(fileName, 'r') as infile, open('Data/output_streams/output'+str(totalFiles)+'.csv', 'w') as outfile:
+                data = infile.read()
+                data = data.replace("[", "")
+                data = data.replace("]", ",")
+                #create array here to speed the data collection.
+                #full_Data = np.append(full_Data, np.array([[1,2,3]]), axis=0)
+                outfile.write(data)
+            computeAverages(computeName)    
+            totalFiles += 1
 

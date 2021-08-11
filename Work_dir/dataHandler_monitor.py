@@ -2,7 +2,6 @@ import time
 from watchdog.observers import Observer
 from watchdog.events import PatternMatchingEventHandler
 import os
-import dataHandller_linear
 
 
 
@@ -11,19 +10,13 @@ import dataHandller_linear
 def on_created(event):
     os.system('python Work_dir\dataHandller_linear.py')
     
-
-
 def on_deleted(event):
     print(f"what the f**k! Someone deleted {event.src_path}!")
 
 def on_modified(event):
-    os.system('python Work_dir\dataHandller_linear.py')    
-    
-
+    os.system('python Work_dir\dataHandller_linear.py')
 def on_moved(event):
-    print(f"ok ok ok, someone moved {event.src_path} to {event.dest_path}")
-
-    
+    print(f"ok ok ok, someone moved {event.src_path} to {event.dest_path}")    
 if __name__ == '__main__':
     
     patterns = ["*"]
