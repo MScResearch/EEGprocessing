@@ -15,13 +15,15 @@ if __name__ == '__main__':
     #savetxt('data.csv', datas, delimiter=',')
     
     for i in range(1000):
-        datas = np.genfromtxt("H:\MSc2\python\pyScript\liblsl-Python-master\Package\Data\computedAverages\computed.csv")       
+        datas = np.genfromtxt("H:/MSc2/Data/computedAverages/computed.csv")
+        #datas= datas[~np.isnan(datas)]       
         fig1=plt.figure()
         plt.plot(datas[:,0],label="Delta")
         plt.plot(datas[:,2],label="Theta")
         plt.plot(datas[:,4],label="Alpha")
         plt.plot(datas[:,6],label="Beta")
         plt.plot(datas[:,8],label="Gama")
+
         plt.show(block=False)
         plt.pause(10)
         plt.close()

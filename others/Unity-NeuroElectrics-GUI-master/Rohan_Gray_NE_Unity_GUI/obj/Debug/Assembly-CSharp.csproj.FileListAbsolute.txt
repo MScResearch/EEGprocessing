@@ -1,0 +1,44 @@
+C:\Users\rohan\OneDrive\Documents\EEG\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\rohan\Desktop\EEG_2\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\rohan\Desktop\EEG_2\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\rohan\Desktop\EEG_2\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\rohan\Desktop\EEG_2\Temp\bin\Debug\UnityEditor.dll
+C:\Users\rohan\Desktop\EEG_2\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\rohan\Desktop\EEG_2\Temp\bin\Debug\UnityEngine.dll
+C:\Users\rohan\Desktop\EEG_2\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\rohan\Desktop\EEG_2\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\rohan\Desktop\EEG_2\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\rohan\Desktop\EEG_2\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\rohan\Desktop\EEG_2\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\rohan\Desktop\EEG_2\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\rohan\Desktop\EEG_2\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\rohan\Desktop\EEG_2\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\rohan\Desktop\EEG_2\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\rohan\Desktop\EEG_2\Temp\bin\Debug\UnityEngine.xml
+C:\Users\rohan\Desktop\EEG_2\Temp\bin\Debug\UnityEditor.xml
+C:\Users\rohan\Desktop\EEG_2\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\rohan\Desktop\EEG_2\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\rohan\Desktop\EEG_2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\rohan\Desktop\EEG_2\obj\Debug\Assembly-CSharp.dll
+C:\Users\rohan\Desktop\EEG_2\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Gray\Documents\Final Project Working on Surface\Final Project Working on Surface\GUI_EEG - Copy\EEG_2 - Copy\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Gray\Documents\Final Project Working on Surface\Final Project Working on Surface\GUI_EEG - Copy\EEG_2 - Copy\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Gray\Documents\Final Project Working on Surface\Final Project Working on Surface\GUI_EEG - Copy\EEG_2 - Copy\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Gray\Documents\Final Project Working on Surface\Final Project Working on Surface\GUI_EEG - Copy\EEG_2 - Copy\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Gray\Documents\Final Project Working on Surface\Final Project Working on Surface\GUI_EEG - Copy\EEG_2 - Copy\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Gray\Documents\Final Project Working on Surface\Final Project Working on Surface\GUI_EEG - Copy\EEG_2 - Copy\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Gray\Documents\Final Project Working on Surface\Final Project Working on Surface\GUI_EEG - Copy\EEG_2 - Copy\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Gray\Documents\Final Project Working on Surface\Final Project Working on Surface\GUI_EEG - Copy\EEG_2 - Copy\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Gray\Documents\Final Project Working on Surface\Final Project Working on Surface\GUI_EEG - Copy\EEG_2 - Copy\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Gray\Documents\Final Project Working on Surface\Final Project Working on Surface\GUI_EEG - Copy\EEG_2 - Copy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Gray\Documents\Final Project Working on Surface\Final Project Working on Surface\GUI_EEG - Copy\EEG_2 - Copy\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Gray\Documents\Final Project Working on Surface\Final Project Working on Surface\GUI_EEG - Copy\EEG_2 - Copy\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Gray\Documents\Final Project Working on Surface\Final Project Working on Surface\GUI_EEG - Copy\EEG_2 - Copy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Gray\Documents\Final Project Working on Surface\Final Project Working on Surface\GUI_EEG - Copy\EEG_2 - Copy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Gray\Documents\Final Project Working on Surface\Final Project Working on Surface\GUI_EEG - Copy\EEG_2 - Copy\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Gray\Documents\Final Project Working on Surface\Final Project Working on Surface\GUI_EEG - Copy\EEG_2 - Copy\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Gray\Documents\Final Project Working on Surface\Final Project Working on Surface\GUI_EEG - Copy\EEG_2 - Copy\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Gray\Documents\Final Project Working on Surface\Final Project Working on Surface\GUI_EEG - Copy\EEG_2 - Copy\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Gray\Documents\Final Project Working on Surface\Final Project Working on Surface\GUI_EEG - Copy\EEG_2 - Copy\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Gray\Documents\Final Project Working on Surface\Final Project Working on Surface\GUI_EEG - Copy\EEG_2 - Copy\obj\Debug\Assembly-CSharp.dll
+C:\Users\Gray\Documents\Final Project Working on Surface\Final Project Working on Surface\GUI_EEG - Copy\EEG_2 - Copy\obj\Debug\Assembly-CSharp.pdb
